@@ -1,2 +1,3 @@
 # odin-recipes
-prj
+small-project
+This project is about recipes.
